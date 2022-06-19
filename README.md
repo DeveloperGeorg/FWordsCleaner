@@ -25,7 +25,7 @@ docker exec -it php-app bash
 - Install dependencies
 
 ```bash
-composer install --optimize-autoloader --no-scripts && composer clear-cache
+make
 ```
 
 - Run loop command
@@ -34,6 +34,20 @@ composer install --optimize-autoloader --no-scripts && composer clear-cache
 php index.php
 ```
 
-- Follow instruction (login as bot)
+- Follow instruction (enter the API id, the API hash automatically and login as bot)
 
 - Profit!
+
+## Running tests
+
+- Login in container:
+
+```bash
+docker exec -it php-app bash
+```
+
+- run
+
+```bash
+make test
+```
