@@ -1,0 +1,6 @@
+.docker
+/.env
+/vendor/
+/.idea/
+/.php_cs
+/.php_cs.cache

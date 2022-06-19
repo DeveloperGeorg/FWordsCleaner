@@ -1,0 +1,20 @@
+{
+  "name": "developergeorg/rbctest",
+  "description": "FWordsCleaner",
+  "type": "project",
+  "require": {
+    "danog/madelineproto": "^7",
+    "symfony/dotenv": "^5.4"
+  },
+  "authors": [
+    {
+      "name": "DeveloperGeorg",
+      "email": "developergeorg@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "RbcTest\\FWordsCleaner\\": "src/"
+    }
+  }
+}

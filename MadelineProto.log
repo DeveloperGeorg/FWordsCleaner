@@ -1,0 +1,613 @@
+Logger:         	MadelineProto
+Logger:         	Copyright (C) 2016-2022 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+DataCenter, fwordcleanerbot:     	Disconnecting all before reconnect!
+DataCenterConnection, fwordcleanerbot: 	Disconnecting from shared DC 
+DataCenterConnection, fwordcleanerbot: 	Backed up 0, added to 0 existing messages) from DC 
+DataCenter, fwordcleanerbot:     	Disconnecting all before reconnect!
+DataCenterConnection, fwordcleanerbot: 	Disconnecting from shared DC 
+DataCenterConnection, fwordcleanerbot: 	Backed up 0, added to 0 existing messages) from DC 
+DataCenter, fwordcleanerbot:     	Disconnecting all before reconnect!
+DataCenterConnection, fwordcleanerbot: 	Disconnecting from shared DC 
+DataCenterConnection, fwordcleanerbot: 	Backed up 0, added to 0 existing messages) from DC 
+DataCenter, fwordcleanerbot:     	Disconnecting all before reconnect!
+DataCenterConnection, fwordcleanerbot: 	Disconnecting from shared DC 
+DataCenterConnection, fwordcleanerbot: 	Backed up 0, added to 0 existing messages) from DC 
+DataCenter, fwordcleanerbot:     	Disconnecting all before reconnect!
+DataCenterConnection, fwordcleanerbot: 	Disconnecting from shared DC 
+DataCenterConnection, fwordcleanerbot: 	Backed up 0, added to 0 existing messages) from DC 
+DataCenter, fwordcleanerbot:     	Disconnecting all before reconnect!
+DataCenterConnection, fwordcleanerbot: 	Disconnecting from shared DC 
+DataCenterConnection, fwordcleanerbot: 	Backed up 0, added to 0 existing messages) from DC 
+DataCenter, fwordcleanerbot:     	Disconnecting all before reconnect!
+DataCenterConnection, fwordcleanerbot: 	Disconnecting from shared DC 
+DataCenterConnection, fwordcleanerbot: 	Backed up 0, added to 0 existing messages) from DC 
+DataCenter, fwordcleanerbot:     	Reconnecting to DC 2 (-1) from existing
+DataCenterConnection, fwordcleanerbot: 	Trying shared connection via tcp://149.154.167.41:443 main DC 2, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream (-1)
+Connection, fwordcleanerbot:     	Connecting to DC 2.0
+Session, fwordcleanerbot:        	Resetting session in DC 2.0...
+DataCenter, fwordcleanerbot:     	Reconnecting to DC 1 (-1) from existing
+DataCenterConnection, fwordcleanerbot: 	Trying shared connection via tcp://149.154.175.54:443 main DC 1, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream (-1)
+Connection, fwordcleanerbot:     	Connecting to DC 1.0
+Session, fwordcleanerbot:        	Resetting session in DC 1.0...
+DataCenter, fwordcleanerbot:     	Reconnecting to DC 2_media (-1) from existing
+DataCenterConnection, fwordcleanerbot: 	Trying shared connection via tcp://149.154.167.151:443 main DC 2_media, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream (-1)
+LoggerLoop, fwordcleanerbot:     	Entered robin loop DC 2_media
+Connection, fwordcleanerbot:     	Connecting to DC 2_media.0
+Session, fwordcleanerbot:        	Resetting session in DC 2_media.0...
+DataCenter, fwordcleanerbot:     	Reconnecting to DC 3 (-1) from existing
+DataCenterConnection, fwordcleanerbot: 	Trying shared connection via tcp://149.154.175.100:443 main DC 3, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream (-1)
+Connection, fwordcleanerbot:     	Connecting to DC 3.0
+Session, fwordcleanerbot:        	Resetting session in DC 3.0...
+DataCenter, fwordcleanerbot:     	Reconnecting to DC 4 (-1) from existing
+DataCenterConnection, fwordcleanerbot: 	Trying shared connection via tcp://149.154.167.92:443 main DC 4, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream (-1)
+Connection, fwordcleanerbot:     	Connecting to DC 4.0
+Session, fwordcleanerbot:        	Resetting session in DC 4.0...
+DataCenter, fwordcleanerbot:     	Reconnecting to DC 4_media (-1) from existing
+DataCenterConnection, fwordcleanerbot: 	Trying shared connection via tcp://149.154.164.250:443 main DC 4_media, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream (-1)
+LoggerLoop, fwordcleanerbot:     	Entered robin loop DC 4_media
+Connection, fwordcleanerbot:     	Connecting to DC 4_media.0
+Session, fwordcleanerbot:        	Resetting session in DC 4_media.0...
+DataCenter, fwordcleanerbot:     	Reconnecting to DC 5 (-1) from existing
+DataCenterConnection, fwordcleanerbot: 	Trying shared connection via tcp://91.108.56.191:443 main DC 5, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream (-1)
+Connection, fwordcleanerbot:     	Connecting to DC 5.0
+Session, fwordcleanerbot:        	Resetting session in DC 5.0...
+Connection, fwordcleanerbot:     	Connected to DC 2.0!
+LoggerLoop, fwordcleanerbot:     	Entered write loop in DC 2.0
+WriteLoop, fwordcleanerbot:      	Waiting in write loop in DC 2.0
+LoggerLoop, fwordcleanerbot:     	Entered read loop in DC 2.0
+LoggerLoop, fwordcleanerbot:     	Entered check loop in DC 2.0
+LoggerLoop, fwordcleanerbot:     	Entered cleanup loop in DC 2.0
+LoggerLoop, fwordcleanerbot:     	Entered HTTP wait loop in DC 2.0
+LoggerLoop, fwordcleanerbot:     	Exited HTTP wait loop in DC 2.0
+LoggerLoop, fwordcleanerbot:     	Entered Ping loop in DC 2.0
+DataCenterConnection, fwordcleanerbot: 	Restoring 0 messages to DC 2
+DataCenter, fwordcleanerbot:     	OK!
+WriteLoop, fwordcleanerbot:      	Done waiting in write loop in DC 2.0
+WriteLoop, fwordcleanerbot:      	Waiting in write loop in DC 2.0
+Connection, fwordcleanerbot:     	Connected to DC 2_media.0!
+LoggerLoop, fwordcleanerbot:     	Entered write loop in DC 2_media.0
+WriteLoop, fwordcleanerbot:      	Waiting in write loop in DC 2_media.0
+LoggerLoop, fwordcleanerbot:     	Entered read loop in DC 2_media.0
+LoggerLoop, fwordcleanerbot:     	Entered check loop in DC 2_media.0
+LoggerLoop, fwordcleanerbot:     	Entered cleanup loop in DC 2_media.0
+LoggerLoop, fwordcleanerbot:     	Entered HTTP wait loop in DC 2_media.0
+LoggerLoop, fwordcleanerbot:     	Exited HTTP wait loop in DC 2_media.0
+Connection, fwordcleanerbot:     	Connecting to DC 2_media.1
+Session, fwordcleanerbot:        	Resetting session in DC 2_media.1...
+Connection, fwordcleanerbot:     	Connected to DC 4.0!
+LoggerLoop, fwordcleanerbot:     	Entered write loop in DC 4.0
+WriteLoop, fwordcleanerbot:      	Waiting in write loop in DC 4.0
+LoggerLoop, fwordcleanerbot:     	Entered read loop in DC 4.0
+LoggerLoop, fwordcleanerbot:     	Entered check loop in DC 4.0
+LoggerLoop, fwordcleanerbot:     	Entered cleanup loop in DC 4.0
+LoggerLoop, fwordcleanerbot:     	Entered HTTP wait loop in DC 4.0
+LoggerLoop, fwordcleanerbot:     	Exited HTTP wait loop in DC 4.0
+LoggerLoop, fwordcleanerbot:     	Entered Ping loop in DC 4.0
+DataCenterConnection, fwordcleanerbot: 	Restoring 0 messages to DC 4
+DataCenter, fwordcleanerbot:     	OK!
+WriteLoop, fwordcleanerbot:      	Done waiting in write loop in DC 4.0
+WriteLoop, fwordcleanerbot:      	Waiting in write loop in DC 4.0
+Connection, fwordcleanerbot:     	Connected to DC 4_media.0!
+LoggerLoop, fwordcleanerbot:     	Entered write loop in DC 4_media.0
+WriteLoop, fwordcleanerbot:      	Waiting in write loop in DC 4_media.0
+LoggerLoop, fwordcleanerbot:     	Entered read loop in DC 4_media.0
+LoggerLoop, fwordcleanerbot:     	Entered check loop in DC 4_media.0
+LoggerLoop, fwordcleanerbot:     	Entered cleanup loop in DC 4_media.0
+LoggerLoop, fwordcleanerbot:     	Entered HTTP wait loop in DC 4_media.0
+LoggerLoop, fwordcleanerbot:     	Exited HTTP wait loop in DC 4_media.0
+Connection, fwordcleanerbot:     	Connecting to DC 4_media.1
+Session, fwordcleanerbot:        	Resetting session in DC 4_media.1...
+Connection, fwordcleanerbot:     	Connected to DC 1.0!
+LoggerLoop, fwordcleanerbot:     	Entered write loop in DC 1.0
+WriteLoop, fwordcleanerbot:      	Waiting in write loop in DC 1.0
+LoggerLoop, fwordcleanerbot:     	Entered read loop in DC 1.0
+LoggerLoop, fwordcleanerbot:     	Entered check loop in DC 1.0
+LoggerLoop, fwordcleanerbot:     	Entered cleanup loop in DC 1.0
+LoggerLoop, fwordcleanerbot:     	Entered HTTP wait loop in DC 1.0
+LoggerLoop, fwordcleanerbot:     	Exited HTTP wait loop in DC 1.0
+LoggerLoop, fwordcleanerbot:     	Entered Ping loop in DC 1.0
+DataCenterConnection, fwordcleanerbot: 	Restoring 0 messages to DC 1
+DataCenter, fwordcleanerbot:     	OK!
+WriteLoop, fwordcleanerbot:      	Done waiting in write loop in DC 1.0
+WriteLoop, fwordcleanerbot:      	Waiting in write loop in DC 1.0
+Connection, fwordcleanerbot:     	Connected to DC 2_media.1!
+LoggerLoop, fwordcleanerbot:     	Entered write loop in DC 2_media.1
+WriteLoop, fwordcleanerbot:      	Waiting in write loop in DC 2_media.1
+LoggerLoop, fwordcleanerbot:     	Entered read loop in DC 2_media.1
+LoggerLoop, fwordcleanerbot:     	Entered check loop in DC 2_media.1
+LoggerLoop, fwordcleanerbot:     	Entered cleanup loop in DC 2_media.1
+LoggerLoop, fwordcleanerbot:     	Entered HTTP wait loop in DC 2_media.1
+LoggerLoop, fwordcleanerbot:     	Exited HTTP wait loop in DC 2_media.1
+Connection, fwordcleanerbot:     	Connecting to DC 2_media.2
+Session, fwordcleanerbot:        	Resetting session in DC 2_media.2...
+Connection, fwordcleanerbot:     	Connected to DC 3.0!
+LoggerLoop, fwordcleanerbot:     	Entered write loop in DC 3.0
+WriteLoop, fwordcleanerbot:      	Waiting in write loop in DC 3.0
+LoggerLoop, fwordcleanerbot:     	Entered read loop in DC 3.0
+LoggerLoop, fwordcleanerbot:     	Entered check loop in DC 3.0
+LoggerLoop, fwordcleanerbot:     	Entered cleanup loop in DC 3.0
+LoggerLoop, fwordcleanerbot:     	Entered HTTP wait loop in DC 3.0
+LoggerLoop, fwordcleanerbot:     	Exited HTTP wait loop in DC 3.0
+LoggerLoop, fwordcleanerbot:     	Entered Ping loop in DC 3.0
+DataCenterConnection, fwordcleanerbot: 	Restoring 0 messages to DC 3
+DataCenter, fwordcleanerbot:     	OK!
+WriteLoop, fwordcleanerbot:      	Done waiting in write loop in DC 3.0
+WriteLoop, fwordcleanerbot:      	Waiting in write loop in DC 3.0
+Connection, fwordcleanerbot:     	Connected to DC 4_media.1!
+LoggerLoop, fwordcleanerbot:     	Entered write loop in DC 4_media.1
+WriteLoop, fwordcleanerbot:      	Waiting in write loop in DC 4_media.1
+LoggerLoop, fwordcleanerbot:     	Entered read loop in DC 4_media.1
+LoggerLoop, fwordcleanerbot:     	Entered check loop in DC 4_media.1
+LoggerLoop, fwordcleanerbot:     	Entered cleanup loop in DC 4_media.1
+LoggerLoop, fwordcleanerbot:     	Entered HTTP wait loop in DC 4_media.1
+LoggerLoop, fwordcleanerbot:     	Exited HTTP wait loop in DC 4_media.1
+Connection, fwordcleanerbot:     	Connecting to DC 4_media.2
+Session, fwordcleanerbot:        	Resetting session in DC 4_media.2...
+Connection, fwordcleanerbot:     	Connected to DC 5.0!
+LoggerLoop, fwordcleanerbot:     	Entered write loop in DC 5.0
+WriteLoop, fwordcleanerbot:      	Waiting in write loop in DC 5.0
+LoggerLoop, fwordcleanerbot:     	Entered read loop in DC 5.0
+LoggerLoop, fwordcleanerbot:     	Entered check loop in DC 5.0
+LoggerLoop, fwordcleanerbot:     	Entered cleanup loop in DC 5.0
+LoggerLoop, fwordcleanerbot:     	Entered HTTP wait loop in DC 5.0
+LoggerLoop, fwordcleanerbot:     	Exited HTTP wait loop in DC 5.0
+LoggerLoop, fwordcleanerbot:     	Entered Ping loop in DC 5.0
+DataCenterConnection, fwordcleanerbot: 	Restoring 0 messages to DC 5
+DataCenter, fwordcleanerbot:     	OK!
+WriteLoop, fwordcleanerbot:      	Done waiting in write loop in DC 5.0
+WriteLoop, fwordcleanerbot:      	Waiting in write loop in DC 5.0
+Connection, fwordcleanerbot:     	Connected to DC 2_media.2!
+LoggerLoop, fwordcleanerbot:     	Entered write loop in DC 2_media.2
+WriteLoop, fwordcleanerbot:      	Waiting in write loop in DC 2_media.2
+LoggerLoop, fwordcleanerbot:     	Entered read loop in DC 2_media.2
+LoggerLoop, fwordcleanerbot:     	Entered check loop in DC 2_media.2
+LoggerLoop, fwordcleanerbot:     	Entered cleanup loop in DC 2_media.2
+LoggerLoop, fwordcleanerbot:     	Entered HTTP wait loop in DC 2_media.2
+LoggerLoop, fwordcleanerbot:     	Exited HTTP wait loop in DC 2_media.2
+Connection, fwordcleanerbot:     	Connecting to DC 2_media.3
+Session, fwordcleanerbot:        	Resetting session in DC 2_media.3...
+Connection, fwordcleanerbot:     	Connected to DC 4_media.2!
+LoggerLoop, fwordcleanerbot:     	Entered write loop in DC 4_media.2
+WriteLoop, fwordcleanerbot:      	Waiting in write loop in DC 4_media.2
+LoggerLoop, fwordcleanerbot:     	Entered read loop in DC 4_media.2
+LoggerLoop, fwordcleanerbot:     	Entered check loop in DC 4_media.2
+LoggerLoop, fwordcleanerbot:     	Entered cleanup loop in DC 4_media.2
+LoggerLoop, fwordcleanerbot:     	Entered HTTP wait loop in DC 4_media.2
+LoggerLoop, fwordcleanerbot:     	Exited HTTP wait loop in DC 4_media.2
+Connection, fwordcleanerbot:     	Connecting to DC 4_media.3
+Session, fwordcleanerbot:        	Resetting session in DC 4_media.3...
+Connection, fwordcleanerbot:     	Connected to DC 2_media.3!
+LoggerLoop, fwordcleanerbot:     	Entered write loop in DC 2_media.3
+WriteLoop, fwordcleanerbot:      	Waiting in write loop in DC 2_media.3
+LoggerLoop, fwordcleanerbot:     	Entered read loop in DC 2_media.3
+LoggerLoop, fwordcleanerbot:     	Entered check loop in DC 2_media.3
+LoggerLoop, fwordcleanerbot:     	Entered cleanup loop in DC 2_media.3
+LoggerLoop, fwordcleanerbot:     	Entered HTTP wait loop in DC 2_media.3
+LoggerLoop, fwordcleanerbot:     	Exited HTTP wait loop in DC 2_media.3
+Connection, fwordcleanerbot:     	Connecting to DC 2_media.4
+Session, fwordcleanerbot:        	Resetting session in DC 2_media.4...
+Connection, fwordcleanerbot:     	Connected to DC 4_media.3!
+LoggerLoop, fwordcleanerbot:     	Entered write loop in DC 4_media.3
+WriteLoop, fwordcleanerbot:      	Waiting in write loop in DC 4_media.3
+LoggerLoop, fwordcleanerbot:     	Entered read loop in DC 4_media.3
+LoggerLoop, fwordcleanerbot:     	Entered check loop in DC 4_media.3
+LoggerLoop, fwordcleanerbot:     	Entered cleanup loop in DC 4_media.3
+LoggerLoop, fwordcleanerbot:     	Entered HTTP wait loop in DC 4_media.3
+LoggerLoop, fwordcleanerbot:     	Exited HTTP wait loop in DC 4_media.3
+Connection, fwordcleanerbot:     	Connecting to DC 4_media.4
+Session, fwordcleanerbot:        	Resetting session in DC 4_media.4...
+Connection, fwordcleanerbot:     	Connected to DC 2_media.4!
+LoggerLoop, fwordcleanerbot:     	Entered write loop in DC 2_media.4
+WriteLoop, fwordcleanerbot:      	Waiting in write loop in DC 2_media.4
+LoggerLoop, fwordcleanerbot:     	Entered read loop in DC 2_media.4
+LoggerLoop, fwordcleanerbot:     	Entered check loop in DC 2_media.4
+LoggerLoop, fwordcleanerbot:     	Entered cleanup loop in DC 2_media.4
+LoggerLoop, fwordcleanerbot:     	Entered HTTP wait loop in DC 2_media.4
+LoggerLoop, fwordcleanerbot:     	Exited HTTP wait loop in DC 2_media.4
+DataCenterConnection, fwordcleanerbot: 	Restoring 0 messages to DC 2_media
+DataCenter, fwordcleanerbot:     	OK!
+WriteLoop, fwordcleanerbot:      	Done waiting in write loop in DC 2_media.0
+WriteLoop, fwordcleanerbot:      	Waiting in write loop in DC 2_media.0
+WriteLoop, fwordcleanerbot:      	Done waiting in write loop in DC 2_media.1
+WriteLoop, fwordcleanerbot:      	Waiting in write loop in DC 2_media.1
+WriteLoop, fwordcleanerbot:      	Done waiting in write loop in DC 2_media.2
+WriteLoop, fwordcleanerbot:      	Waiting in write loop in DC 2_media.2
+WriteLoop, fwordcleanerbot:      	Done waiting in write loop in DC 2_media.3
+WriteLoop, fwordcleanerbot:      	Waiting in write loop in DC 2_media.3
+WriteLoop, fwordcleanerbot:      	Done waiting in write loop in DC 2_media.4
+WriteLoop, fwordcleanerbot:      	Waiting in write loop in DC 2_media.4
+Connection, fwordcleanerbot:     	Connected to DC 4_media.4!
+LoggerLoop, fwordcleanerbot:     	Entered write loop in DC 4_media.4
+WriteLoop, fwordcleanerbot:      	Waiting in write loop in DC 4_media.4
+LoggerLoop, fwordcleanerbot:     	Entered read loop in DC 4_media.4
+LoggerLoop, fwordcleanerbot:     	Entered check loop in DC 4_media.4
+LoggerLoop, fwordcleanerbot:     	Entered cleanup loop in DC 4_media.4
+LoggerLoop, fwordcleanerbot:     	Entered HTTP wait loop in DC 4_media.4
+LoggerLoop, fwordcleanerbot:     	Exited HTTP wait loop in DC 4_media.4
+DataCenterConnection, fwordcleanerbot: 	Restoring 0 messages to DC 4_media
+DataCenter, fwordcleanerbot:     	OK!
+MTProto, fwordcleanerbot:        	Initing authorization...
+MTProto, fwordcleanerbot:        	Initing authorization DC 2...
+MTProto, fwordcleanerbot:        	Done initing authorization DC 2
+MTProto, fwordcleanerbot:        	Initing authorization DC 1...
+MTProto, fwordcleanerbot:        	Done initing authorization DC 1
+MTProto, fwordcleanerbot:        	Initing authorization DC 3...
+MTProto, fwordcleanerbot:        	Done initing authorization DC 3
+MTProto, fwordcleanerbot:        	Initing authorization DC 4...
+MTProto, fwordcleanerbot:        	Done initing authorization DC 4
+MTProto, fwordcleanerbot:        	Initing authorization DC 5...
+MTProto, fwordcleanerbot:        	Done initing authorization DC 5
+MTProto, fwordcleanerbot:        	Initing authorization DC 2_media...
+MTProto, fwordcleanerbot:        	Done initing authorization DC 2_media
+MTProto, fwordcleanerbot:        	Initing authorization DC 4_media...
+MTProto, fwordcleanerbot:        	Done initing authorization DC 4_media
+DataCenter, fwordcleanerbot:     	Reconnecting to DC 2 (-1) from existing
+DataCenterConnection, fwordcleanerbot: 	Trying shared connection via tcp://149.154.167.41:443 main DC 2, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream (-1)
+DataCenterConnection, fwordcleanerbot: 	Already connected!
+DataCenter, fwordcleanerbot:     	OK!
+DataCenter, fwordcleanerbot:     	Reconnecting to DC 1 (-1) from existing
+DataCenterConnection, fwordcleanerbot: 	Trying shared connection via tcp://149.154.175.54:443 main DC 1, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream (-1)
+DataCenterConnection, fwordcleanerbot: 	Already connected!
+DataCenter, fwordcleanerbot:     	OK!
+DataCenter, fwordcleanerbot:     	Reconnecting to DC 2_media (-1) from existing
+DataCenterConnection, fwordcleanerbot: 	Trying shared connection via tcp://149.154.167.151:443 main DC 2_media, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream (-1)
+DataCenterConnection, fwordcleanerbot: 	Already connected!
+DataCenter, fwordcleanerbot:     	OK!
+DataCenter, fwordcleanerbot:     	Reconnecting to DC 3 (-1) from existing
+DataCenterConnection, fwordcleanerbot: 	Trying shared connection via tcp://149.154.175.100:443 main DC 3, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream (-1)
+DataCenterConnection, fwordcleanerbot: 	Already connected!
+DataCenter, fwordcleanerbot:     	OK!
+DataCenter, fwordcleanerbot:     	Reconnecting to DC 4 (-1) from existing
+DataCenterConnection, fwordcleanerbot: 	Trying shared connection via tcp://149.154.167.92:443 main DC 4, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream (-1)
+DataCenterConnection, fwordcleanerbot: 	Already connected!
+DataCenter, fwordcleanerbot:     	OK!
+DataCenter, fwordcleanerbot:     	Reconnecting to DC 4_media (-1) from existing
+DataCenterConnection, fwordcleanerbot: 	Trying shared connection via tcp://149.154.164.250:443 main DC 4_media, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream (-1)
+DataCenterConnection, fwordcleanerbot: 	Already connected!
+DataCenter, fwordcleanerbot:     	OK!
+DataCenter, fwordcleanerbot:     	Reconnecting to DC 5 (-1) from existing
+DataCenterConnection, fwordcleanerbot: 	Trying shared connection via tcp://91.108.56.191:443 main DC 5, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream (-1)
+DataCenterConnection, fwordcleanerbot: 	Already connected!
+DataCenter, fwordcleanerbot:     	OK!
+MTProto, fwordcleanerbot:        	Initing authorization...
+MTProto, fwordcleanerbot:        	Initing authorization DC 2...
+MTProto, fwordcleanerbot:        	Done initing authorization DC 2
+MTProto, fwordcleanerbot:        	Initing authorization DC 1...
+MTProto, fwordcleanerbot:        	Done initing authorization DC 1
+MTProto, fwordcleanerbot:        	Initing authorization DC 3...
+MTProto, fwordcleanerbot:        	Done initing authorization DC 3
+MTProto, fwordcleanerbot:        	Initing authorization DC 4...
+MTProto, fwordcleanerbot:        	Done initing authorization DC 4
+MTProto, fwordcleanerbot:        	Initing authorization DC 5...
+MTProto, fwordcleanerbot:        	Done initing authorization DC 5
+MTProto, fwordcleanerbot:        	Initing authorization DC 2_media...
+MTProto, fwordcleanerbot:        	Done initing authorization DC 2_media
+MTProto, fwordcleanerbot:        	Initing authorization DC 4_media...
+MTProto, fwordcleanerbot:        	Done initing authorization DC 4_media
+WriteLoop, fwordcleanerbot:      	Done waiting in write loop in DC 4_media.0
+WriteLoop, fwordcleanerbot:      	Waiting in write loop in DC 4_media.0
+WriteLoop, fwordcleanerbot:      	Done waiting in write loop in DC 4_media.1
+WriteLoop, fwordcleanerbot:      	Waiting in write loop in DC 4_media.1
+WriteLoop, fwordcleanerbot:      	Done waiting in write loop in DC 4_media.2
+WriteLoop, fwordcleanerbot:      	Waiting in write loop in DC 4_media.2
+WriteLoop, fwordcleanerbot:      	Done waiting in write loop in DC 4_media.3
+WriteLoop, fwordcleanerbot:      	Waiting in write loop in DC 4_media.3
+WriteLoop, fwordcleanerbot:      	Done waiting in write loop in DC 4_media.4
+WriteLoop, fwordcleanerbot:      	Waiting in write loop in DC 4_media.4
+WriteLoop, fwordcleanerbot:      	Done waiting in write loop in DC 2.0
+WriteLoop, fwordcleanerbot:      	Sending users.getUsers as encrypted message to DC 2.0
+WriteLoop, fwordcleanerbot:      	Sent encrypted payload to DC 2.0
+WriteLoop, fwordcleanerbot:      	Waiting in write loop in DC 2.0
+ReadLoop, fwordcleanerbot:       	Received payload from DC 2.0
+ResponseHandler, fwordcleanerbot: 	Received msg_container from DC 2
+MsgIdHandler64, fwordcleanerbot: 	Given message id (7110876216664219649) is bigger than or equal to the current limit (7110876216664215553). Please sync your date using NTP.
+ResponseHandler, fwordcleanerbot: 	Inside of container, received new_session_created from DC 2
+ResponseHandler, fwordcleanerbot: 	Inside of container, received msgs_ack from DC 2
+ReadLoop, fwordcleanerbot:       	Received payload from DC 2.0
+ResponseHandler, fwordcleanerbot: 	Received rpc_result from DC 2
+LoggerLoop, fwordcleanerbot:     	Entered call check
+LoggerLoop, fwordcleanerbot:     	Entered serialize
+LoggerLoop, fwordcleanerbot:     	Entered phone config
+LoggerLoop, fwordcleanerbot:     	Entered config
+LoggerLoop, fwordcleanerbot:     	Entered TOS
+LoggerLoop, fwordcleanerbot:     	Entered IPC server
+LoggerLoop, fwordcleanerbot:     	Entered IPC server
+WriteLoop, fwordcleanerbot:      	Done waiting in write loop in DC 2.0
+WriteLoop, fwordcleanerbot:      	Sending help.getCdnConfig as encrypted message to DC 2.0
+WriteLoop, fwordcleanerbot:      	Adding msgs_ack
+WriteLoop, fwordcleanerbot:      	Wrapping in msg_container (2 messages of total size 36) as encrypted message for DC 2.0
+WriteLoop, fwordcleanerbot:      	Sent encrypted payload to DC 2.0
+WriteLoop, fwordcleanerbot:      	Waiting in write loop in DC 2.0
+ReadLoop, fwordcleanerbot:       	Received payload from DC 2.0
+ResponseHandler, fwordcleanerbot: 	Received rpc_result from DC 2
+MTProto, fwordcleanerbot:        	Initing authorization...
+MTProto, fwordcleanerbot:        	Initing authorization DC 2...
+MTProto, fwordcleanerbot:        	Done initing authorization DC 2
+MTProto, fwordcleanerbot:        	Initing authorization DC 1...
+MTProto, fwordcleanerbot:        	Done initing authorization DC 1
+MTProto, fwordcleanerbot:        	Initing authorization DC 3...
+MTProto, fwordcleanerbot:        	Done initing authorization DC 3
+MTProto, fwordcleanerbot:        	Initing authorization DC 4...
+MTProto, fwordcleanerbot:        	Done initing authorization DC 4
+MTProto, fwordcleanerbot:        	Initing authorization DC 5...
+MTProto, fwordcleanerbot:        	Done initing authorization DC 5
+MTProto, fwordcleanerbot:        	Initing authorization DC 2_media...
+MTProto, fwordcleanerbot:        	Done initing authorization DC 2_media
+MTProto, fwordcleanerbot:        	Initing authorization DC 4_media...
+MTProto, fwordcleanerbot:        	Done initing authorization DC 4_media
+MTProto, fwordcleanerbot:        	Starting update system
+LoggerLoop, fwordcleanerbot:     	Entered update feed loop generic
+LoggerLoop, fwordcleanerbot:     	Entered getUpdate loop generic
+UpdateLoop, fwordcleanerbot:     	Resumed and fetching normal difference...
+LoggerLoop, fwordcleanerbot:     	Entered update seq loop
+MTProto, fwordcleanerbot:        	Getting updates after deserialization...
+WriteLoop, fwordcleanerbot:      	Done waiting in write loop in DC 2.0
+WriteLoop, fwordcleanerbot:      	Sending updates.getState as encrypted message to DC 2.0
+WriteLoop, fwordcleanerbot:      	Sending updates.getDifference as encrypted message to DC 2.0
+WriteLoop, fwordcleanerbot:      	Adding msgs_ack
+WriteLoop, fwordcleanerbot:      	Wrapping in msg_container (3 messages of total size 88) as encrypted message for DC 2.0
+WriteLoop, fwordcleanerbot:      	Sent encrypted payload to DC 2.0
+WriteLoop, fwordcleanerbot:      	Waiting in write loop in DC 2.0
+WriteLoop, fwordcleanerbot:      	Done waiting in write loop in DC 1.0
+WriteLoop, fwordcleanerbot:      	Waiting in write loop in DC 1.0
+WriteLoop, fwordcleanerbot:      	Done waiting in write loop in DC 2_media.0
+WriteLoop, fwordcleanerbot:      	Waiting in write loop in DC 2_media.0
+WriteLoop, fwordcleanerbot:      	Done waiting in write loop in DC 2_media.1
+WriteLoop, fwordcleanerbot:      	Waiting in write loop in DC 2_media.1
+WriteLoop, fwordcleanerbot:      	Done waiting in write loop in DC 2_media.2
+WriteLoop, fwordcleanerbot:      	Waiting in write loop in DC 2_media.2
+WriteLoop, fwordcleanerbot:      	Done waiting in write loop in DC 2_media.3
+WriteLoop, fwordcleanerbot:      	Waiting in write loop in DC 2_media.3
+WriteLoop, fwordcleanerbot:      	Done waiting in write loop in DC 2_media.4
+WriteLoop, fwordcleanerbot:      	Waiting in write loop in DC 2_media.4
+WriteLoop, fwordcleanerbot:      	Done waiting in write loop in DC 3.0
+WriteLoop, fwordcleanerbot:      	Waiting in write loop in DC 3.0
+WriteLoop, fwordcleanerbot:      	Done waiting in write loop in DC 4.0
+WriteLoop, fwordcleanerbot:      	Waiting in write loop in DC 4.0
+WriteLoop, fwordcleanerbot:      	Done waiting in write loop in DC 4_media.0
+WriteLoop, fwordcleanerbot:      	Waiting in write loop in DC 4_media.0
+WriteLoop, fwordcleanerbot:      	Done waiting in write loop in DC 4_media.1
+WriteLoop, fwordcleanerbot:      	Waiting in write loop in DC 4_media.1
+WriteLoop, fwordcleanerbot:      	Done waiting in write loop in DC 4_media.2
+WriteLoop, fwordcleanerbot:      	Waiting in write loop in DC 4_media.2
+WriteLoop, fwordcleanerbot:      	Done waiting in write loop in DC 4_media.3
+WriteLoop, fwordcleanerbot:      	Waiting in write loop in DC 4_media.3
+WriteLoop, fwordcleanerbot:      	Done waiting in write loop in DC 4_media.4
+WriteLoop, fwordcleanerbot:      	Waiting in write loop in DC 4_media.4
+WriteLoop, fwordcleanerbot:      	Done waiting in write loop in DC 5.0
+WriteLoop, fwordcleanerbot:      	Waiting in write loop in DC 5.0
+ReadLoop, fwordcleanerbot:       	Received payload from DC 2.0
+ResponseHandler, fwordcleanerbot: 	Received msg_container from DC 2
+MsgIdHandler64, fwordcleanerbot: 	Given message id (7110876217948104705) is bigger than or equal to the current limit (7110876217948101633). Please sync your date using NTP.
+ResponseHandler, fwordcleanerbot: 	Inside of container, received rpc_result from DC 2
+ResponseHandler, fwordcleanerbot: 	Inside of container, received msgs_ack from DC 2
+WriteLoop, fwordcleanerbot:      	Done waiting in write loop in DC 2.0
+WriteLoop, fwordcleanerbot:      	Sending help.getCdnConfig as encrypted message to DC 2.0
+WriteLoop, fwordcleanerbot:      	Adding msgs_ack
+WriteLoop, fwordcleanerbot:      	Wrapping in msg_container (2 messages of total size 36) as encrypted message for DC 2.0
+WriteLoop, fwordcleanerbot:      	Sent encrypted payload to DC 2.0
+WriteLoop, fwordcleanerbot:      	Waiting in write loop in DC 2.0
+PeerHandler, fwordcleanerbot:    	Updated chat -626086904
+PeerHandler, fwordcleanerbot:    	Updated chat -1001639226913
+PeerHandler, fwordcleanerbot:    	Updated user 176938369
+PeerHandler, fwordcleanerbot:    	Updated user 172150827
+ReadLoop, fwordcleanerbot:       	Received payload from DC 2.0
+ResponseHandler, fwordcleanerbot: 	Received rpc_result from DC 2
+UpdateLoop, fwordcleanerbot:     	Got updates.difference
+LoggerLoop, fwordcleanerbot:     	Entered update feed loop channel 1639226913
+LoggerLoop, fwordcleanerbot:     	Entered getUpdate loop channel 1639226913
+UpdateLoop, fwordcleanerbot:     	Resumed and fetching 1639226913 difference...
+FeedLoop, fwordcleanerbot:       	Was fed an update of type updateChannelTooLong in update feed loop channel 1639226913...
+FeedLoop, fwordcleanerbot:       	Was fed an update of type updateChannel in update feed loop generic...
+FeedLoop, fwordcleanerbot:       	Getdiff fed me message of type messageService in update feed loop generic...
+FeedLoop, fwordcleanerbot:       	Getdiff fed me message of type messageService in update feed loop generic...
+FeedLoop, fwordcleanerbot:       	Getdiff fed me message of type messageService in update feed loop generic...
+FeedLoop, fwordcleanerbot:       	Getdiff fed me message of type messageService in update feed loop generic...
+FeedLoop, fwordcleanerbot:       	Getdiff fed me message of type messageService in update feed loop generic...
+FeedLoop, fwordcleanerbot:       	Getdiff fed me message of type messageService in update feed loop generic...
+UpdateLoop, fwordcleanerbot:     	Finished parsing updates in getUpdate loop generic, now resuming feeders
+UpdateLoop, fwordcleanerbot:     	Finished resuming feeders in getUpdate loop generic, signaling updates
+UpdateLoop, fwordcleanerbot:     	Finished signaling updates in getUpdate loop generic, pausing for 10 seconds
+FeedLoop, fwordcleanerbot:       	Resumed update feed loop channel 1639226913
+FeedLoop, fwordcleanerbot:       	Got channel too long update, getting difference...
+API, fwordcleanerbot:            	MadelineProto is ready!
+SessionPaths, fwordcleanerbot:   	Waiting for exclusive lock of /var/www/test.bot.ipcState.php.lock...
+SessionPaths, fwordcleanerbot:   	Got exclusive lock of /var/www/test.bot.ipcState.php.lock...
+ReadLoop, fwordcleanerbot:       	Received payload from DC 2.0
+ResponseHandler, fwordcleanerbot: 	Received rpc_result from DC 2
+WriteLoop, fwordcleanerbot:      	Done waiting in write loop in DC 2.0
+WriteLoop, fwordcleanerbot:      	Sending updates.getChannelDifference as encrypted message to DC 2.0
+WriteLoop, fwordcleanerbot:      	Adding msgs_ack
+WriteLoop, fwordcleanerbot:      	Wrapping in msg_container (2 messages of total size 72) as encrypted message for DC 2.0
+WriteLoop, fwordcleanerbot:      	Sent encrypted payload to DC 2.0
+WriteLoop, fwordcleanerbot:      	Waiting in write loop in DC 2.0
+MTProto, fwordcleanerbot:        	Accepted IPC client connection!
+Session, fwordcleanerbot:        	Garbage collected 10 incoming messages in DC 2, 0 left
+Session, fwordcleanerbot:        	Garbage collected 9 outgoing messages in DC 2, 1 left
+LoggerLoop, fwordcleanerbot:     	Exited IPC server
+LoggerLoop, fwordcleanerbot:     	Exited IPC server
+MTProto, fwordcleanerbot:        	Prompting final serialization (SHUTDOWN)...
+SessionPaths, fwordcleanerbot:   	Waiting for exclusive lock of /var/www/test.bot.safe.php.lock...
+SessionPaths, fwordcleanerbot:   	Got exclusive lock of /var/www/test.bot.safe.php.lock...
+SessionPaths, fwordcleanerbot:   	Waiting for exclusive lock of /var/www/test.bot.lightState.php.lock...
+SessionPaths, fwordcleanerbot:   	Got exclusive lock of /var/www/test.bot.lightState.php.lock...
+APIWrapper, fwordcleanerbot:     	Saved session!
+PeerHandler, fwordcleanerbot:    	Updated chat -1001639226913
+ReadLoop, fwordcleanerbot:       	Received payload from DC 2.0
+MTProto, fwordcleanerbot:        	Done final serialization (SHUTDOWN)!
+API, fwordcleanerbot:            	Shutting down MadelineProto (danog\MadelineProto\API)
+MTProto, fwordcleanerbot:        	Will unreference instance
+LoggerLoop, fwordcleanerbot:     	Exited call check
+LoggerLoop, fwordcleanerbot:     	Exited serialize
+LoggerLoop, fwordcleanerbot:     	Exited phone config
+LoggerLoop, fwordcleanerbot:     	Exited config
+LoggerLoop, fwordcleanerbot:     	Exited TOS
+LoggerLoop, fwordcleanerbot:     	Exited update seq loop
+LoggerLoop, fwordcleanerbot:     	Exited update feed loop generic
+UpdateLoop, fwordcleanerbot:     	Exiting getUpdate loop generic due to signal
+LoggerLoop, fwordcleanerbot:     	Exited getUpdate loop generic
+DataCenterConnection, fwordcleanerbot: 	Disconnecting from shared DC 2
+Connection, fwordcleanerbot:     	Disconnecting from DC 2.0
+LoggerLoop, fwordcleanerbot:     	Exited read loop in DC 2.0
+WriteLoop, fwordcleanerbot:      	Exiting write loop in DC 2.0
+LoggerLoop, fwordcleanerbot:     	Exited write loop in DC 2.0
+LoggerLoop, fwordcleanerbot:     	Exited check loop in DC 2.0
+LoggerLoop, fwordcleanerbot:     	Exited Ping loop in DC 2.0
+LoggerLoop, fwordcleanerbot:     	Exited cleanup loop in DC 2.0
+DataCenterConnection, fwordcleanerbot: 	Backed up updates.getChannelDifference,  from DC 2.0
+Connection, fwordcleanerbot:     	Disconnected from DC 2.0
+DataCenterConnection, fwordcleanerbot: 	Backed up 1, added to 0 existing messages) from DC 2
+DataCenterConnection, fwordcleanerbot: 	Disconnecting from shared DC 1
+Connection, fwordcleanerbot:     	Disconnecting from DC 1.0
+LoggerLoop, fwordcleanerbot:     	Exited read loop in DC 1.0
+WriteLoop, fwordcleanerbot:      	Exiting write loop in DC 1.0
+LoggerLoop, fwordcleanerbot:     	Exited write loop in DC 1.0
+LoggerLoop, fwordcleanerbot:     	Exited check loop in DC 1.0
+LoggerLoop, fwordcleanerbot:     	Exited Ping loop in DC 1.0
+LoggerLoop, fwordcleanerbot:     	Exited cleanup loop in DC 1.0
+DataCenterConnection, fwordcleanerbot: 	Backed up  from DC 1.0
+Connection, fwordcleanerbot:     	Disconnected from DC 1.0
+DataCenterConnection, fwordcleanerbot: 	Backed up 0, added to 0 existing messages) from DC 1
+DataCenterConnection, fwordcleanerbot: 	Disconnecting from shared DC 2_media
+LoggerLoop, fwordcleanerbot:     	Exited robin loop DC 2_media
+Connection, fwordcleanerbot:     	Disconnecting from DC 2_media.0
+LoggerLoop, fwordcleanerbot:     	Exited read loop in DC 2_media.0
+WriteLoop, fwordcleanerbot:      	Exiting write loop in DC 2_media.0
+LoggerLoop, fwordcleanerbot:     	Exited write loop in DC 2_media.0
+LoggerLoop, fwordcleanerbot:     	Exited check loop in DC 2_media.0
+LoggerLoop, fwordcleanerbot:     	Exited cleanup loop in DC 2_media.0
+DataCenterConnection, fwordcleanerbot: 	Backed up  from DC 2_media.0
+Connection, fwordcleanerbot:     	Disconnected from DC 2_media.0
+Connection, fwordcleanerbot:     	Disconnecting from DC 2_media.1
+LoggerLoop, fwordcleanerbot:     	Exited read loop in DC 2_media.1
+WriteLoop, fwordcleanerbot:      	Exiting write loop in DC 2_media.1
+LoggerLoop, fwordcleanerbot:     	Exited write loop in DC 2_media.1
+LoggerLoop, fwordcleanerbot:     	Exited check loop in DC 2_media.1
+LoggerLoop, fwordcleanerbot:     	Exited cleanup loop in DC 2_media.1
+DataCenterConnection, fwordcleanerbot: 	Backed up  from DC 2_media.1
+Connection, fwordcleanerbot:     	Disconnected from DC 2_media.1
+Connection, fwordcleanerbot:     	Disconnecting from DC 2_media.2
+LoggerLoop, fwordcleanerbot:     	Exited read loop in DC 2_media.2
+WriteLoop, fwordcleanerbot:      	Exiting write loop in DC 2_media.2
+LoggerLoop, fwordcleanerbot:     	Exited write loop in DC 2_media.2
+LoggerLoop, fwordcleanerbot:     	Exited check loop in DC 2_media.2
+LoggerLoop, fwordcleanerbot:     	Exited cleanup loop in DC 2_media.2
+DataCenterConnection, fwordcleanerbot: 	Backed up  from DC 2_media.2
+Connection, fwordcleanerbot:     	Disconnected from DC 2_media.2
+Connection, fwordcleanerbot:     	Disconnecting from DC 2_media.3
+LoggerLoop, fwordcleanerbot:     	Exited read loop in DC 2_media.3
+WriteLoop, fwordcleanerbot:      	Exiting write loop in DC 2_media.3
+LoggerLoop, fwordcleanerbot:     	Exited write loop in DC 2_media.3
+LoggerLoop, fwordcleanerbot:     	Exited check loop in DC 2_media.3
+LoggerLoop, fwordcleanerbot:     	Exited cleanup loop in DC 2_media.3
+DataCenterConnection, fwordcleanerbot: 	Backed up  from DC 2_media.3
+Connection, fwordcleanerbot:     	Disconnected from DC 2_media.3
+Connection, fwordcleanerbot:     	Disconnecting from DC 2_media.4
+LoggerLoop, fwordcleanerbot:     	Exited read loop in DC 2_media.4
+WriteLoop, fwordcleanerbot:      	Exiting write loop in DC 2_media.4
+LoggerLoop, fwordcleanerbot:     	Exited write loop in DC 2_media.4
+LoggerLoop, fwordcleanerbot:     	Exited check loop in DC 2_media.4
+LoggerLoop, fwordcleanerbot:     	Exited cleanup loop in DC 2_media.4
+DataCenterConnection, fwordcleanerbot: 	Backed up  from DC 2_media.4
+Connection, fwordcleanerbot:     	Disconnected from DC 2_media.4
+DataCenterConnection, fwordcleanerbot: 	Backed up 0, added to 0 existing messages) from DC 2_media
+DataCenterConnection, fwordcleanerbot: 	Disconnecting from shared DC 3
+Connection, fwordcleanerbot:     	Disconnecting from DC 3.0
+LoggerLoop, fwordcleanerbot:     	Exited read loop in DC 3.0
+WriteLoop, fwordcleanerbot:      	Exiting write loop in DC 3.0
+LoggerLoop, fwordcleanerbot:     	Exited write loop in DC 3.0
+LoggerLoop, fwordcleanerbot:     	Exited check loop in DC 3.0
+LoggerLoop, fwordcleanerbot:     	Exited Ping loop in DC 3.0
+LoggerLoop, fwordcleanerbot:     	Exited cleanup loop in DC 3.0
+DataCenterConnection, fwordcleanerbot: 	Backed up  from DC 3.0
+Connection, fwordcleanerbot:     	Disconnected from DC 3.0
+DataCenterConnection, fwordcleanerbot: 	Backed up 0, added to 0 existing messages) from DC 3
+DataCenterConnection, fwordcleanerbot: 	Disconnecting from shared DC 4
+Connection, fwordcleanerbot:     	Disconnecting from DC 4.0
+LoggerLoop, fwordcleanerbot:     	Exited read loop in DC 4.0
+WriteLoop, fwordcleanerbot:      	Exiting write loop in DC 4.0
+LoggerLoop, fwordcleanerbot:     	Exited write loop in DC 4.0
+LoggerLoop, fwordcleanerbot:     	Exited check loop in DC 4.0
+LoggerLoop, fwordcleanerbot:     	Exited Ping loop in DC 4.0
+LoggerLoop, fwordcleanerbot:     	Exited cleanup loop in DC 4.0
+DataCenterConnection, fwordcleanerbot: 	Backed up  from DC 4.0
+Connection, fwordcleanerbot:     	Disconnected from DC 4.0
+DataCenterConnection, fwordcleanerbot: 	Backed up 0, added to 0 existing messages) from DC 4
+DataCenterConnection, fwordcleanerbot: 	Disconnecting from shared DC 4_media
+LoggerLoop, fwordcleanerbot:     	Exited robin loop DC 4_media
+Connection, fwordcleanerbot:     	Disconnecting from DC 4_media.0
+LoggerLoop, fwordcleanerbot:     	Exited read loop in DC 4_media.0
+WriteLoop, fwordcleanerbot:      	Exiting write loop in DC 4_media.0
+LoggerLoop, fwordcleanerbot:     	Exited write loop in DC 4_media.0
+LoggerLoop, fwordcleanerbot:     	Exited check loop in DC 4_media.0
+LoggerLoop, fwordcleanerbot:     	Exited cleanup loop in DC 4_media.0
+DataCenterConnection, fwordcleanerbot: 	Backed up  from DC 4_media.0
+Connection, fwordcleanerbot:     	Disconnected from DC 4_media.0
+Connection, fwordcleanerbot:     	Disconnecting from DC 4_media.1
+LoggerLoop, fwordcleanerbot:     	Exited read loop in DC 4_media.1
+WriteLoop, fwordcleanerbot:      	Exiting write loop in DC 4_media.1
+LoggerLoop, fwordcleanerbot:     	Exited write loop in DC 4_media.1
+LoggerLoop, fwordcleanerbot:     	Exited check loop in DC 4_media.1
+LoggerLoop, fwordcleanerbot:     	Exited cleanup loop in DC 4_media.1
+DataCenterConnection, fwordcleanerbot: 	Backed up  from DC 4_media.1
+Connection, fwordcleanerbot:     	Disconnected from DC 4_media.1
+Connection, fwordcleanerbot:     	Disconnecting from DC 4_media.2
+LoggerLoop, fwordcleanerbot:     	Exited read loop in DC 4_media.2
+WriteLoop, fwordcleanerbot:      	Exiting write loop in DC 4_media.2
+LoggerLoop, fwordcleanerbot:     	Exited write loop in DC 4_media.2
+LoggerLoop, fwordcleanerbot:     	Exited check loop in DC 4_media.2
+LoggerLoop, fwordcleanerbot:     	Exited cleanup loop in DC 4_media.2
+DataCenterConnection, fwordcleanerbot: 	Backed up  from DC 4_media.2
+Connection, fwordcleanerbot:     	Disconnected from DC 4_media.2
+Connection, fwordcleanerbot:     	Disconnecting from DC 4_media.3
+LoggerLoop, fwordcleanerbot:     	Exited read loop in DC 4_media.3
+WriteLoop, fwordcleanerbot:      	Exiting write loop in DC 4_media.3
+LoggerLoop, fwordcleanerbot:     	Exited write loop in DC 4_media.3
+LoggerLoop, fwordcleanerbot:     	Exited check loop in DC 4_media.3
+LoggerLoop, fwordcleanerbot:     	Exited cleanup loop in DC 4_media.3
+DataCenterConnection, fwordcleanerbot: 	Backed up  from DC 4_media.3
+Connection, fwordcleanerbot:     	Disconnected from DC 4_media.3
+Connection, fwordcleanerbot:     	Disconnecting from DC 4_media.4
+LoggerLoop, fwordcleanerbot:     	Exited read loop in DC 4_media.4
+WriteLoop, fwordcleanerbot:      	Exiting write loop in DC 4_media.4
+LoggerLoop, fwordcleanerbot:     	Exited write loop in DC 4_media.4
+LoggerLoop, fwordcleanerbot:     	Exited check loop in DC 4_media.4
+LoggerLoop, fwordcleanerbot:     	Exited cleanup loop in DC 4_media.4
+DataCenterConnection, fwordcleanerbot: 	Backed up  from DC 4_media.4
+Connection, fwordcleanerbot:     	Disconnected from DC 4_media.4
+DataCenterConnection, fwordcleanerbot: 	Backed up 0, added to 0 existing messages) from DC 4_media
+DataCenterConnection, fwordcleanerbot: 	Disconnecting from shared DC 5
+Connection, fwordcleanerbot:     	Disconnecting from DC 5.0
+LoggerLoop, fwordcleanerbot:     	Exited read loop in DC 5.0
+WriteLoop, fwordcleanerbot:      	Exiting write loop in DC 5.0
+LoggerLoop, fwordcleanerbot:     	Exited write loop in DC 5.0
+LoggerLoop, fwordcleanerbot:     	Exited check loop in DC 5.0
+LoggerLoop, fwordcleanerbot:     	Exited Ping loop in DC 5.0
+LoggerLoop, fwordcleanerbot:     	Exited cleanup loop in DC 5.0
+DataCenterConnection, fwordcleanerbot: 	Backed up  from DC 5.0
+Connection, fwordcleanerbot:     	Disconnected from DC 5.0
+DataCenterConnection, fwordcleanerbot: 	Backed up 0, added to 0 existing messages) from DC 5
+MTProto, fwordcleanerbot:        	Unreferenced instance
+Serialization, fwordcleanerbot:  	Unlocking exclusive session lock!
+Serialization, fwordcleanerbot:  	Unlocked exclusive session lock!
+MTProto, fwordcleanerbot:        	Shutting down MadelineProto (MTProto)
+MTProto, fwordcleanerbot:        	Will unreference instance
+DataCenterConnection, fwordcleanerbot: 	Disconnecting from shared DC 2
+DataCenterConnection, fwordcleanerbot: 	Backed up 0, added to 1 existing messages) from DC 2
+DataCenterConnection, fwordcleanerbot: 	Disconnecting from shared DC 1
+DataCenterConnection, fwordcleanerbot: 	Backed up 0, added to 0 existing messages) from DC 1
+DataCenterConnection, fwordcleanerbot: 	Disconnecting from shared DC 2_media
+DataCenterConnection, fwordcleanerbot: 	Backed up 0, added to 0 existing messages) from DC 2_media
+DataCenterConnection, fwordcleanerbot: 	Disconnecting from shared DC 3
+DataCenterConnection, fwordcleanerbot: 	Backed up 0, added to 0 existing messages) from DC 3
+DataCenterConnection, fwordcleanerbot: 	Disconnecting from shared DC 4
+DataCenterConnection, fwordcleanerbot: 	Backed up 0, added to 0 existing messages) from DC 4
+DataCenterConnection, fwordcleanerbot: 	Disconnecting from shared DC 4_media
+DataCenterConnection, fwordcleanerbot: 	Backed up 0, added to 0 existing messages) from DC 4_media
+DataCenterConnection, fwordcleanerbot: 	Disconnecting from shared DC 5
+DataCenterConnection, fwordcleanerbot: 	Backed up 0, added to 0 existing messages) from DC 5
+MTProto, fwordcleanerbot:        	Unreferenced instance
+MTProto, fwordcleanerbot:        	Successfully destroyed MadelineProto
